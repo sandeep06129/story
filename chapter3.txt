@@ -1,1 +1,4 @@
 everything is planned
+git remote add origin url
+git branch -m main
+git push -u origin main
